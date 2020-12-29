@@ -1,23 +1,23 @@
 {
-  "name": "@eliteswap/lib",
-  "version": "2.0.5",
+  "name": "@xswap/lib",
+  "version": "1.0.0",
   "description": "📖 Solidity libraries that are shared across Elite Swap contracts",
   "files": [
     "contracts",
     "!contracts/test"
   ],
-  "homepage": "https://eliteswap.org",
+  "homepage": "https://xswap.org",
   "repository": {
-    "url": "git+https://github.com/EthereumEliteswap/eliteswap-lib.git",
+    "url": "git+https://github.com/xswap/xswap-lib.git",
     "type": "git"
   },
   "keywords": [
-    "eliteswap",
+    "xswap",
     "ethereum",
     "lib"
   ],
   "bugs": {
-    "url": "https://github.com/EthereumEliteswap/eliteswap-lib/issues"
+    "url": "https://github.com/xswap/xswap-lib/issues"
   },
   "engines": {
     "node": ">=10"
