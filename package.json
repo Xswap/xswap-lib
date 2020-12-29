@@ -49,5 +49,8 @@
   "directories": {
     "test": "test"
   },
-  "author": ""
+  "author": "",
+  "dependencies": {
+    "@uniswap/lib": "^4.0.1-alpha"
+  }
 }
