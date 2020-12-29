@@ -1,6 +1,6 @@
 {
   "name": "@xswap/lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "📖 Solidity libraries that are shared across Xswap contracts",
   "files": [
     "contracts",
